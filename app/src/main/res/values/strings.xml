@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Livraison</string>
+
+    <string name="dialog_message">Choose the type of the item added</string>
+    <string name="dialog_title">What type is this item? Please choose one</string>
+
+</resources>
